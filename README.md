@@ -1,84 +1,114 @@
-# 👋 ¡Hola! Soy Natalia Ramírez
-
-🎓 **Estudiante de Ingeniería de Sistemas** en la Pontificia Universidad Javeriana  
-💼 Enfocada en la **gestión de proyectos tecnológicos**, combinando habilidades técnicas con liderazgo, planificación y trabajo en equipo para lograr resultados eficientes e innovadores.
+# 👋 ¡Hola, soy Natalia Ramírez!  
+### 💻 Estudiante de Ingeniería de Sistemas | Enfoque en Gestión de Proyectos | Desarrolladora Web  
 
 ---
 
-### 🚀 Sobre mí
-Soy una persona apasionada por la tecnología y la organización.  
-Mi principal interés está en **planificar, coordinar y ejecutar proyectos de software**, asegurando el cumplimiento de objetivos, tiempos y calidad.  
-Me gusta integrar la parte técnica con la **gestión estratégica**, aplicando metodologías ágiles y herramientas colaborativas para alcanzar metas de forma efectiva.  
+## 🚀 Sobre mí  
 
-📍 **Ubicación:** Colombia  
+Soy estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana** 🇨🇴.  
+Mi principal enfoque está en la **gestión de proyectos**, combinando la planificación, el liderazgo y la coordinación de equipos con el desarrollo de soluciones tecnológicas modernas.  
+
+Me apasiona el **desarrollo web**, la **optimización de procesos** y la **implementación de metodologías ágiles** (Scrum, Kanban) para garantizar la calidad y eficiencia en los proyectos.  
+
+También tengo experiencia en **análisis de datos**, **programación estructurada y orientada a objetos**, y **desarrollo de sistemas distribuidos**.  
+
+---
+
+## 🧩 Habilidades Principales  
+
+### 🧱 Backend Development  
+| Tecnología | Nivel |
+|-------------|--------|
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | 90% |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 85% |
+| ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) | 80% |
+
+### 🎨 Frontend Development  
+| Tecnología | Nivel |
+|-------------|--------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 90% |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 85% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 75% |
+
+### ⚙️ DevOps & Herramientas  
+| Herramienta | Nivel |
+|-------------|--------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | 90% |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | 85% |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | 80% |
+
+---
+
+## 💡 Tecnología que manejo  
+
+### 🔧 Backend  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+
+### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Bases de Datos  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ DevOps & Herramientas  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏆 Proyectos Destacados  
+
+### 💻 **Motor de Inferencia Basado en Resolución**  
+Proyecto académico implementado en lenguaje procedural, que permite comprobar teoremas matemáticos mediante técnicas de inferencia lógica.  
+
+🔹 Implementación de algoritmos de resolución  
+🔹 Ejemplo validado con teoremas formales  
+🔹 Aplicado a la representación del conocimiento  
+
+---
+
+### 🧠 **Simulación de Asignación de Tareas en FlexSim**  
+Simulación de un sistema de máquinas paralelas con restricciones, fallas y priorización de tareas.  
+El objetivo fue **maximizar la ganancia neta** bajo condiciones dinámicas.  
+
+🔹 Intervalos de confianza del 95%  
+🔹 Análisis estadístico y de rendimiento  
+🔹 Optimización de recursos  
+
+---
+
+### 🌐 **Proyecto de Sistemas Distribuidos**  
+Implementación de un sistema distribuido con comunicación cliente-servidor y monitoreo de procesos.  
+
+🔹 Programación concurrente  
+🔹 Uso de sockets y comunicación entre procesos  
+🔹 Diseño modular y escalable  
+
+---
+
+## 🎯 Enfoque Profesional  
+
+Mi objetivo es seguir creciendo en el área de **gestión de proyectos tecnológicos**, aplicando metodologías ágiles y herramientas de desarrollo colaborativo.  
+Busco generar soluciones innovadoras que combinen la **eficiencia técnica** con la **organización estratégica**.
+
+---
+
+## 📬 Contacto  
+
 📧 **Correo:** ramireznataaa@gmail.com  
+🏫 **Universidad:** Pontificia Universidad Javeriana  
+🌍 **Ubicación:** Colombia  
+🐙 **GitHub:** [github.com/Nataaa3](https://github.com/Nataaa3)  
 
 ---
 
-### 🧩 Áreas de interés
-- **Gestión de proyectos de software** (planificación, control y evaluación)  
-- **Análisis de requerimientos y documentación técnica**  
-- **Optimización de procesos mediante herramientas digitales**  
-- **Metodologías ágiles (Scrum, Kanban)**  
-- **Comunicación y liderazgo de equipos interdisciplinarios**  
-
----
-
-### 🧠 Habilidades Técnicas
-
-**Lenguajes de Programación:**  
-`C` · `Python` · `Java` · `JavaScript`
-
-**Desarrollo Web:**  
-`HTML5` · `CSS3` · `Bootstrap` · `Flask`
-
-**Herramientas de Gestión y Colaboración:**  
-`Git` · `GitHub` · `Trello` · `Notion` · `Jira` · `VS Code`
-
----
-
-### 📈 Enfoque en Gestión de Proyectos
-Mi fortaleza está en la **planificación y coordinación de proyectos tecnológicos**, asegurando una ejecución ordenada y eficiente.  
-He trabajado en proyectos académicos donde he aplicado principios de gestión para:
-- Asignación y seguimiento de tareas  
-- Evaluación del rendimiento del equipo  
-- Control de versiones y entregables  
-- Documentación técnica y presentación de resultados  
-
-Busco constantemente **mejorar mis capacidades de liderazgo, comunicación y toma de decisiones**, para desempeñarme en el futuro como **Project Manager o Líder de Desarrollo**.
-
----
-
-### 💡 Proyectos destacados
-
-#### 🧠 Proyecto3-IA  
-Aplicación de técnicas de **Inteligencia Artificial** en Python para resolución de problemas complejos.  
-🔹 Gestión del flujo de trabajo y control de versiones.  
-🔹 **Lenguaje:** Python  
-
-#### ⚙️ Taller-OPM  
-Proyecto en **C** centrado en la estructura y control de programas modulares, aplicando principios de planificación y documentación.  
-🔹 **Lenguaje:** C  
-
-#### 💼 Taller-Evaluaci-n  
-Análisis de rendimiento de programas en C con enfoque en la **eficiencia y mejora continua**.  
-🔹 **Lenguaje:** C  
-
----
-
-### 🌱 Actualmente estoy...
-- Fortaleciendo mis conocimientos en **metodologías ágiles y gestión de equipos**  
-- Desarrollando proyectos académicos que integran **programación y liderazgo técnico**  
-- Buscando oportunidades para aplicar mis habilidades de **gestión y análisis** en entornos reales  
-
----
-
-### 🤝 Conectemos
-💼 [LinkedIn](https://www.linkedin.com)  
-📧 ramireznataaa@gmail.com  
-🌐 [GitHub - Nataaa3](https://github.com/Nataaa3)
-
----
 
 > _“Un buen proyecto no solo se mide por su resultado técnico, sino por la capacidad del equipo para hacerlo realidad.”_ 💡
 
