@@ -57,50 +57,62 @@ Me caracterizo por ser organizada, responsable y con enfoque en resultados.
 
 ---
 
-# 🏆 Proyectos Destacados
-
-## 💻 Motor de Inferencia Basado en Resolución  
-🔹 Implementación en lenguaje procedural  
-🔹 Aplicación de técnicas formales de inferencia  
-🔹 Validación con teoremas matemáticos  
-🔹 Representación de conocimiento
+## 🧰 Tecnologías que manejo
+**Backend:** C · Python · Java  
+**Frontend:** HTML5 · CSS3 · JavaScript  
+**DevOps:** Git · GitHub · Linux · VS Code  
 
 ---
 
-## 🧠 Simulación de Máquinas Paralelas en FlexSim  
-🔹 Modelado de 20 tipos de tareas con prioridades  
-🔹 Manejo de fallas, restricciones y tiempos  
-🔹 Intervalos de confianza del 95%  
-🔹 Maximización de la ganancia neta  
+## 🏆 Proyectos Destacados
+
+### 💻 Motor de Inferencia Basado en Resolución
+Sistema académico que implementa un motor de inferencia para verificar teoremas matemáticos mediante **resolución lógica**.  
+✔ Algoritmos de resolución  
+✔ Validación con teoremas formales  
+✔ Representación de conocimiento  
+✔ Construcción de casos de prueba matemáticos  
 
 ---
 
-## 🌐 Sistema Distribuido Cliente-Servidor  
-🔹 Comunicación por sockets  
-🔹 Concurrencia y monitoreo de procesos  
-🔹 Arquitectura modular y escalable  
+### 🧠 Simulación de Asignación de Tareas en FlexSim
+Simulación de máquinas paralelas con fallas, prioridades y restricciones, buscando **maximizar la ganancia neta**.  
+✔ Intervalos de confianza del 95%  
+✔ Análisis estadístico  
+✔ Tiempos de procesamiento y fallas reales  
+✔ Optimización basada en escenarios  
 
 ---
 
-# 📌 Línea de Tiempo Profesional
-```text
-2022 → Inicio Ingeniería de Sistemas  
-2023 → Enfoque en Programación Backend  
-2024 → Simulación, Web y Sistemas Distribuidos  
-2025 → Gestión de Proyectos + Desarrollo Profesional  
+### 🌐 Proyecto de Sistemas Distribuidos
+Implementación cliente-servidor con monitoreo de procesos y comunicación concurrente.  
+✔ Programación simultánea  
+✔ Uso de sockets  
+✔ Arquitectura modular y escalable  
+✔ Manejo eficiente de hilos y comunicación  
 
 ---
 
-## 🌐 Sígueme o visítame  
-<p align="center">
-  <a href="https://github.com/Nataaa3">
-    <img src="https://img.shields.io/badge/GitHub-Nataaa3-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:ramireznataaa@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-ramireznataaa%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🎯 Enfoque Profesional
+Mi objetivo es desarrollarme en la **gestión de proyectos tecnológicos**, liderando equipos y aplicando metodologías ágiles para construir soluciones innovadoras, escalables y técnicamente sólidas.
 
+---
+
+## 📬 Contacto
+📧 **Correo:** ramireznataaa@gmail.com  
+🏫 **Universidad:** Pontificia Universidad Javeriana  
+🌍 **Ubicación:** Colombia  
+🐙 **GitHub:** https://github.com/Nataaa3  
+
+---
+
+> _“Un buen proyecto no solo se mide por su resultado técnico, sino por la capacidad del equipo para hacerlo realidad.”_ ✨
+
+---
+
+## 📊 Mis estadísticas (automáticas)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nataaa3&layout=compact&theme=tokyonight)
 ---
 
 ## ✨ Frase que me representa
