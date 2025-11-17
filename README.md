@@ -1,7 +1,4 @@
-<!-- ====== BANNER ====== -->
-<p align="center">
-  <img src="https://i.imgur.com/Vf9XAcq.png" width="100%" alt="Banner Natalia Ramirez">
-</p>
+
 
 <h1 align="center">✨ ¡Hola! Soy <strong>Natalia Ramírez</strong> ✨</h1>
 <h3 align="center">💻 Ingeniería de Sistemas | Gestión de Proyectos | Desarrollo Web | Agile</h3>
