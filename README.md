@@ -1,114 +1,112 @@
-# 👋 ¡Hola, soy Natalia Ramírez!  
-### 💻 Estudiante de Ingeniería de Sistemas | Enfoque en Gestión de Proyectos | Desarrolladora Web  
+<!-- ====== BANNER ====== -->
+<p align="center">
+  <img src="https://i.imgur.com/Vf9XAcq.png" width="100%" alt="Banner Natalia Ramirez">
+</p>
+
+<h1 align="center">✨ ¡Hola! Soy <strong>Natalia Ramírez</strong> ✨</h1>
+<h3 align="center">💻 Ingeniería de Sistemas | Gestión de Proyectos | Desarrollo Web | Agile</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6fa8dc&size=22&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionada+por+la+Gestión+de+Proyectos;Desarrolladora+Web+Frontend+%2F+Backend;Metodologías+Ágiles+%7C+Scrum+%7C+Kanban;Tecnología+%7C+Innovación+%7C+Optimización+de+Procesos" />
+</p>
 
 ---
 
-## 🚀 Sobre mí  
+# 🚀 Sobre mí
+Soy estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**, con un fuerte enfoque en:
 
-Soy estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana** 🇨🇴.  
-Mi principal enfoque está en la **gestión de proyectos**, combinando la planificación, el liderazgo y la coordinación de equipos con el desarrollo de soluciones tecnológicas modernas.  
+✨ Gestión de Proyectos  
+✨ Desarrollo Web  
+✨ Simulación y Optimización  
+✨ Sistemas Distribuidos  
+✨ Análisis y Modelado de Datos  
 
-Me apasiona el **desarrollo web**, la **optimización de procesos** y la **implementación de metodologías ágiles** (Scrum, Kanban) para garantizar la calidad y eficiencia en los proyectos.  
+Combino habilidades técnicas con liderazgo, pensamiento crítico y metodologías ágiles para entregar soluciones de calidad.
 
-También tengo experiencia en **análisis de datos**, **programación estructurada y orientada a objetos**, y **desarrollo de sistemas distribuidos**.  
-
----
-
-## 🧩 Habilidades Principales  
-
-### 🧱 Backend Development  
-| Tecnología | Nivel |
-|-------------|--------|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | 90% |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 85% |
-| ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) | 80% |
-
-### 🎨 Frontend Development  
-| Tecnología | Nivel |
-|-------------|--------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 90% |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 85% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 75% |
-
-### ⚙️ DevOps & Herramientas  
-| Herramienta | Nivel |
-|-------------|--------|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | 90% |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | 85% |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | 80% |
+Me caracterizo por ser organizada, responsable y con enfoque en resultados.
 
 ---
 
-## 💡 Tecnología que manejo  
+# 🧩 Habilidades Técnicas
 
-### 🔧 Backend  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+## 🧱 Backend
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### 🗄️ Bases de Datos  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## ⚙️ DevOps & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FlexSim-0A74DA?style=for-the-badge"/>
+</p>
 
-### ☁️ DevOps & Herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🏆 Proyectos Destacados  
-
-### 💻 **Motor de Inferencia Basado en Resolución**  
-Proyecto académico implementado en lenguaje procedural, que permite comprobar teoremas matemáticos mediante técnicas de inferencia lógica.  
-
-🔹 Implementación de algoritmos de resolución  
-🔹 Ejemplo validado con teoremas formales  
-🔹 Aplicado a la representación del conocimiento  
+## 🗄️ Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-### 🧠 **Simulación de Asignación de Tareas en FlexSim**  
-Simulación de un sistema de máquinas paralelas con restricciones, fallas y priorización de tareas.  
-El objetivo fue **maximizar la ganancia neta** bajo condiciones dinámicas.  
+# 🏆 Proyectos Destacados
 
+## 💻 Motor de Inferencia Basado en Resolución  
+🔹 Implementación en lenguaje procedural  
+🔹 Aplicación de técnicas formales de inferencia  
+🔹 Validación con teoremas matemáticos  
+🔹 Representación de conocimiento
+
+---
+
+## 🧠 Simulación de Máquinas Paralelas en FlexSim  
+🔹 Modelado de 20 tipos de tareas con prioridades  
+🔹 Manejo de fallas, restricciones y tiempos  
 🔹 Intervalos de confianza del 95%  
-🔹 Análisis estadístico y de rendimiento  
-🔹 Optimización de recursos  
+🔹 Maximización de la ganancia neta  
 
 ---
 
-### 🌐 **Proyecto de Sistemas Distribuidos**  
-Implementación de un sistema distribuido con comunicación cliente-servidor y monitoreo de procesos.  
-
-🔹 Programación concurrente  
-🔹 Uso de sockets y comunicación entre procesos  
-🔹 Diseño modular y escalable  
+## 🌐 Sistema Distribuido Cliente-Servidor  
+🔹 Comunicación por sockets  
+🔹 Concurrencia y monitoreo de procesos  
+🔹 Arquitectura modular y escalable  
 
 ---
 
-## 🎯 Enfoque Profesional  
-
-Mi objetivo es seguir creciendo en el área de **gestión de proyectos tecnológicos**, aplicando metodologías ágiles y herramientas de desarrollo colaborativo.  
-Busco generar soluciones innovadoras que combinen la **eficiencia técnica** con la **organización estratégica**.
-
----
-
-## 📬 Contacto  
-
-📧 **Correo:** ramireznataaa@gmail.com  
-🏫 **Universidad:** Pontificia Universidad Javeriana  
-🌍 **Ubicación:** Colombia  
-🐙 **GitHub:** [github.com/Nataaa3](https://github.com/Nataaa3)  
+# 📌 Línea de Tiempo Profesional
+```text
+2022 → Inicio Ingeniería de Sistemas  
+2023 → Enfoque en Programación Backend  
+2024 → Simulación, Web y Sistemas Distribuidos  
+2025 → Gestión de Proyectos + Desarrollo Profesional  
 
 ---
 
+## 🌐 Sígueme o visítame  
+<p align="center">
+  <a href="https://github.com/Nataaa3">
+    <img src="https://img.shields.io/badge/GitHub-Nataaa3-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:ramireznataaa@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-ramireznataaa%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-> _“Un buen proyecto no solo se mide por su resultado técnico, sino por la capacidad del equipo para hacerlo realidad.”_ 💡
+---
+
+## ✨ Frase que me representa
+> “Un buen proyecto no solo se mide por su resultado técnico, sino por la capacidad del equipo para hacerlo realidad.”
+
 
