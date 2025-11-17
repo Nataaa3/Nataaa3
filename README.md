@@ -110,12 +110,4 @@ Mi objetivo es desarrollarme en la **gestión de proyectos tecnológicos**, lide
 
 ---
 
-## 📊 Mis estadísticas (automáticas)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nataaa3&layout=compact&theme=tokyonight)
----
-
-## ✨ Frase que me representa
-> “Un buen proyecto no solo se mide por su resultado técnico, sino por la capacidad del equipo para hacerlo realidad.”
-
 
